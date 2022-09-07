@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rodrigoamestoy
+- 👀 I’m interested in learning and developing myself in the IT field
+- 🌱 I’m currently learning to become a Full Stack Developer
+- 💞️ I’m looking to collaborate on diverse projects which leads me to enhacne my knowledge
+- 📫 You can reach me in www.linkedin.com/in/rodrigoamestoy
